@@ -4,7 +4,7 @@
 
 ## Code
 
-The code is in a Jupyter notebook, `Kaggle challenge - Main notebook.ipynb`. To run it, you can launch the whole notebook (every cell, in the order).
+The code is in a Jupyter notebook, `Kaggle challenge - Main notebook.ipynb`.
 
 You will get an assertion error in the last (CNN) section: this is intended as a way to stop execution, as the final model we used is placed just before the CNN part. In other words, you can just ignore the CNN cells (or you can take a look at it, to see what we have been experimenting with!).
 
